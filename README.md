@@ -1,23 +1,8 @@
-# Jobappi
-# Job Application Form
+# React + Vite
 
-A simple React application with a dynamic job application form that includes field validation.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## Features
+Currently, two official plugins are available:
 
-- **Dynamic Fields**: The form adjusts dynamically based on user input.
-- **Form Validation**: Validates required fields and provides clear error messages.
-- **User-friendly Interface**: Clean and intuitive design.
-
-## Getting Started
-
-### Prerequisites
-
-Ensure you have Node.js and npm installed on your machine.
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/job-application-form.git
-   cd job-application-form
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
